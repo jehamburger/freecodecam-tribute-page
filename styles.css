@@ -1,0 +1,14 @@
+#title, #main p {
+	text-align: center;
+}
+
+#image {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+figcaption {
+	text-align: center;
+}
